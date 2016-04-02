@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DayNight Theme Tutorial</string>
+    <string name="text_auto_mode">Auto Mode</string>
+    <string name="text_day_mode">Day Mode</string>
+    <string name="text_night_mode">Night Mode</string>
+
+</resources>
